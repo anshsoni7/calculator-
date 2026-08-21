@@ -1,1 +1,5 @@
-# amazon-new-clone
+# Calculator
+Technology
+Html 
+Css
+Javascript
